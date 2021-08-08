@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Microsoft.MixedReality.Toolkit.UI;   //InteractableToggleCollection건드리면x // 인덱스 받아오기위해 네임스페이스 가져옴
+using Microsoft.MixedReality.Toolkit.UI;   //InteractableToggleCollection건드리면x // 인덱스 받아오기위해 package에서 네임스페이스 가져옴
 
 public class SelectStartBtn : MonoBehaviour
 {
