@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SelectExercise.unity
+    guid: b263d0874ac26374398f010937032dbf
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: b6b99a64399f4394abd6f3553ff6dc3e
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 563a115bf00421340aedb421b1fe4afd,
       type: 2}
